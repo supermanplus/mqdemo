@@ -1,4 +1,6 @@
 # mqdemo
-This is start your learning road
+This is your learning road
 
 yeah,are you ready?
+
+yes!
